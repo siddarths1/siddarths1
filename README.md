@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm SIDDARTH S</h1>
 <h3 align="center">Ready to contribute my skills, enthusiasm, and fresh perspective to a dynamic organization</h3>
 <center>
-<img align="right" alt="Coding" width="300" src="https://www.humanprogress.org/wp-content/uploads/2019/12/20-tech-advances1.jpg">
+<img  alt="Coding" width="300" src="https://www.humanprogress.org/wp-content/uploads/2019/12/20-tech-advances1.jpg">
 </center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddarths1&label=Profile%20views&color=0e75b6&style=flat" alt="siddarths1" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on the project **ECOMMERCE_SITE**
 
-- 🌱 I’m currently learning **MERN** **SAP**
+- 🌱 I’m currently learning **MERN**,**SAP**
 
 - 📫 How to reach me **siddarthsomasundaram@gmail.com**
 
