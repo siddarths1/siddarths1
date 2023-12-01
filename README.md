@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on the project **ECOMMERCE_SITE**
 
-- 🌱 I’m currently learning **MERN**,**SAP**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **siddarthsomasundaram@gmail.com**
 
